@@ -510,6 +510,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Arunava's Solution](https://repl.it/Izpi/1)
 * [Sheldon K's Solution](https://github.com/Leviax7/ProjectEuler1) | [View in Browser](https://leviax7.github.io/ProjectEuler1/)
 * [Mayank Patel's Solution](https://github.com/maknahar/maknahar.github.io/tree/master/op/euler) | [View in Browser](https://maknahar.github.io/op/euler/)
+* [Oliver Curting's Solution](https://github.com/Curting/project-euler)
 
 ### Additional Resources
 
